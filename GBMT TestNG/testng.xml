@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="landingpage.GSO"/>
+      <class name="landingpage.RegionTeam"/>
+      <class name="landingpage.MarketTeamUser"/>
+      <class name="landingpage.MarketTeamActualsOnly"/>
+      <class name="landingpage.landingpage"/>
+      <class name="landingpage.Budgetmanager"/>
+      <class name="landingpage.IBMWWCorporateMedia"/>
+      <class name="landingpage.Admin"/>
+      <class name="landingpage.IBMLocalClient"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
